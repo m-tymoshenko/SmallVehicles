@@ -24,4 +24,6 @@ Required mods:
 
 ## Installation
 
-tbd
+0. Install requirements listed above.
+1. Download `Small Vehicles v#.## build ######.zip` archive from [Releases](https://github.com/m-tymoshenko/SmallVehicles/releases) and extract it's contents (`SmallVehicles` folder) into `mods` folder inside the main game folder.
+2. Run Community Patch installer (`commod.exe`), enter `mods`, and choose to install `Small Vehicles` mod when prompted (refer to [ComPatch README](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/#readme) for detailed instructions).
