@@ -1,0 +1,32 @@
+# unique service name
+name: SmallVehicles
+
+# required human readable info
+display_name: Small Vehicles
+version: "1.0"
+build: "230616"
+description: |
+  Мод для Improved Storyline (с установленным KrayCity модом), который добавляет играбельные и перебалансированные маленькие машины в игру (Клоп, Таракан, Муравей и Кузнечик). Машины и детали к ним доступны в Ржавенске.
+authors: ЖМИХ
+
+# optional human readable info
+release_date: TBA
+language: ru
+link: https://github.com/m-tymoshenko/SmallVehicles/
+
+# installation confguration
+prerequisites: 
+  - name: community_remaster
+    versions:
+      - "1.13"
+    optional_content:
+    - hd_gun_models
+    - hd_vehicle_models
+    - ost_remaster
+  - name: ImprovedStoryline106
+    versions:
+      - "1.1-HD-dev"
+    optional_content:
+    - KrayCity
+patcher_version_requirement: "1.13"
+no_base_content: false
