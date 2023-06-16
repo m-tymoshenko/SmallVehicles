@@ -18,9 +18,9 @@ AI opponents in small cars are now more competitive against player in early game
 ## List of requirements and mod compatibility
 
 Required mods:
-* Improved Storyline - **add version(s) and link!**
-    * KrayCity (included as optional mod in ImprovedStoryline)
-* Community Remaster - **add version(s) and link!**
+* Improved Storyline - [v.1.1-hd-dev-build-230518](https://github.com/zatinu322/ImprovedStoryline/releases/tag/v.1.1-hd-dev-build-230518).
+    * KrayCity (included as optional mod in ImprovedStoryline).
+* Community Remaster - [v1.13-230113a](https://github.com/DeusExMachinaTeam/EM-CommunityPatch/releases/tag/v1.13-230113a).
 
 ## Installation
 
